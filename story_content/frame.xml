@@ -1554,6 +1554,7 @@
         <slidelink slideid="_player.6UMo0OHoZz9" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6UMo0OHoZz9.5XpKGBY83Jt" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6UMo0OHoZz9.6hXxcyq7P5b" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -1561,7 +1562,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Taunaha and Orowhana.docx" image="story_content/61Qk2ho5RzP.png" title="Taunaha and Orowhana" />
+      <resource url="story_content/external_files/Taunaha and Orowhana.docx" image="story_content/5gkIB5fxQ5v.png" title="Taunaha and Orowhana" />
     </resources>
   </resource_data>
   <transcript_data />
